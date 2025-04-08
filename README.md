@@ -8,6 +8,7 @@ This repository explains all the main uses and properties the flexbox has to off
 // Parent Properties //
 
 
+
 // display: flex;
 // Displays the parent container as a flexbox
 
@@ -41,6 +42,7 @@ This repository explains all the main uses and properties the flexbox has to off
 
 
 // Child Properties //
+
 
 
 // flex: (Takes multiple inputs)
