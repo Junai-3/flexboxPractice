@@ -1,6 +1,8 @@
 // A link to a video explaining Flexbox in detail :
 // https://www.youtube.com/watch?v=wsTv9y931o8&ab_channel=Coding2GO
 
+This repository explains all the main uses and properties the flexbox has to offer, and shows how it affects how you interact with websites.
+
 // display: flex;
 // Displays the parent container as a flexbox
 
