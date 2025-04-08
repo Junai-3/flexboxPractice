@@ -2,6 +2,10 @@
   "name": "node-starter",
   "private": true,
   "scripts": {
+    "start": "serve public"
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
