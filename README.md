@@ -34,14 +34,17 @@
 // writing-mode
 // Writes text in box items vertically or horizontally, as well as control the direction of items (hortizontal or vertical)
 
-// flex-grow [1; 0; ]
+// flex-grow [Integer; 0; ]
 // Allows items to grow and expand, where 1 turns it on and 0 turns it off. This property is applied to the items. Items grows relative to each other, you can also set values higher than 1.
 
-// flex-shrink [1; 0; ]
+// flex-shrink [ Integer; 0; ]
 // Allows items to shrink and be squished, where 1 turns it on and 0 turns it off. This property is applied to the items. Items grows relative to each other, you can also set values higher than 1.
 
 // flex-basis
+// The initial length of a flexible item 
 
-// min-length/min-width
+// min-length/min-width [px; ]
+// The maximum length/width to which an item can flex to. After reaching the max length, the item will expand no longer
 
-// max-length/max-width
+// max-length/max-width [px; ]
+// The minimum length/width to which an item can shrink to. After reaching the minimum length, the item will no longer shrink
