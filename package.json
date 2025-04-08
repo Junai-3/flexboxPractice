@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "express": "^5.1.0",
+    "serve": "^14.2.4",
     "server": "^1.0.41"
   }
 }
