@@ -17,7 +17,7 @@
 // Creates a gap between items
 
 // column-gap [px; ]
-Amount of gap in between columns
+// Amount of gap in between columns
 
 // row-gap [px; ]
 // Amount of gap in between rows
@@ -31,12 +31,17 @@ Amount of gap in between columns
 // writing-mode
 // Writes text in box items vertically or horizontally, as well as control the direction of items (hortizontal or vertical)
 
-// flex-grow
-// Allows items to grow and expand, where 1 turns it on and 0 turns it off. 
+// flex-grow [1; 0; ]
+// Allows items to grow and expand, where 1 turns it on and 0 turns it off. This property is applied to the items. Items grows relative to each other, you can also set values higher than 1.
 
 // flex-shrink [1; 0; ]
-// Allows items to shrink and be squished, where 1 turns it on and 0 turns it off. 
+// Allows items to shrink and be squished, where 1 turns it on and 0 turns it off. This property is applied to the items. Items grows relative to each other, you can also set values higher than 1.
 
 // flex-basis
 
-//align-self
+// align-self [flex-start; flex-end; center;]
+// Allows you to isolate and move a single item in the flexbox individually along the cross axis
+
+// min-length/min-width
+
+// max-length/max-width
