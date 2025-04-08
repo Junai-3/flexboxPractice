@@ -7,6 +7,9 @@
 // align-items [flex-start; flex-end; center; space-between; space-around; space-evenly; ]
 // Moves items collectively along the cross axis (which is dictated by flex-direction)
 
+// align-self [flex-start; flex-end; center;]
+// Allows you to isolate and move a single item in the flexbox individually along the cross axis
+
 // flex-direction [row; row-reverse; column; column-reverse; ]
 // Controls the axis content items will go along (Row or column)
 
@@ -38,9 +41,6 @@
 // Allows items to shrink and be squished, where 1 turns it on and 0 turns it off. This property is applied to the items. Items grows relative to each other, you can also set values higher than 1.
 
 // flex-basis
-
-// align-self [flex-start; flex-end; center;]
-// Allows you to isolate and move a single item in the flexbox individually along the cross axis
 
 // min-length/min-width
 
