@@ -6,6 +6,9 @@ This repository explains all the main uses and properties the flexbox has to off
 // display: flex;
 // Displays the parent container as a flexbox
 
+// flex: (Takes multiple inputs)
+// A combination of three values: flex-basis, flex-grow and flex-shrink
+
 // align-items [flex-start; flex-end; center; space-between; space-around; space-evenly; ]
 // Moves items collectively along the cross axis (which is dictated by flex-direction)
 
